@@ -19,4 +19,5 @@ focusing on distributed systems, database internals, and AI infrastructure.
 - **LLM Firmware Tooling** — RAG + Vision LLMs (87.4% correctness)
 
 🔗 https://xloverflow.github.io  
-📧 lixiang8@cmu.edu · 💼 linkedin.com/in/xiangli8
+📧 lixiang8@cmu.edu 
+💼 linkedin.com/in/xiangli8
