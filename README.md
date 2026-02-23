@@ -1,21 +1,30 @@
 # Xiang Li
 
 🎓 MSIN @ Carnegie Mellon University  
-🎓 BEng @ Huazhong University of Science and Technology
+🎓 BEng @ Huazhong University of Science and Technology  
 
-⚙️ **Systems / Distributed / Database / LLM Infrastructure**
+⚙️ AI Systems · LLM Agents · Distributed Systems
 
-I build **high-performance backend systems** and **production-oriented LLM pipelines**,  
-focusing on distributed systems, database internals, and AI infrastructure.
+I build scalable backend systems and production-oriented LLM pipelines, with a growing focus on AI infrastructure and agent systems.
 
-## 🔍 Focus
-- 🧱 **Database Systems** · B+-tree · Buffer Pool · Query Execution
-- 🌐 **Distributed Systems** · Raft · KV Stores · Fault Tolerance
-- 🤖 **LLM Systems** · RAG · Agents · Tool Calling
+---
 
-## 🚀 Projects
-- 🧱 **BusTub** — C++ DBMS internals (CMU 15-445)
-- 🌐 **TinyKV** — Distributed KV store (Raft, 100K+ ops/sec)
-- 🤖 **LLM Firmware Tooling** — RAG + Vision LLMs (87.4% correctness)
+## 🔍 Current Interests
 
-🔗 [https://xloverflow.github.io](https://xloverflow.github.io)  📧 [lixiang8@cmu.edu](mailto:lixiang8@cmu.edu) 💼 [linkedin.com/in/xiangli8](https://linkedin.com/in/xiangli8)
+- 🤖 LLM Agents · Tool Calling · RAG Systems · Multi-step Reasoning
+- ⚙️ AI Infrastructure (learning) · LLM Systems · ML Systems
+- 🌐 Distributed Systems · Raft · Consistency · Fault Tolerance
+- 🧱 System Foundations · Database Internals · Storage Engines
+
+---
+
+## 🚀 Selected Projects
+
+- 🌐 **TinyKV** — Distributed KV Store (Raft, 100K+ ops/sec)
+- 🧱 **BusTub** — C++ DBMS Internals (CMU 15-445)
+
+---
+
+🔗 https://xloverflow.github.io  
+📧 lixiang8@cmu.edu  
+💼 https://linkedin.com/in/xiangli8
