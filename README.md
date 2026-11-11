@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://li-xiang.xyz"><img alt="Website" src="https://img.shields.io/badge/Website-li--xiang.xyz-24292f?style=flat-square"/></a>
   <a href="https://blog.li-xiang.xyz"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.li--xiang.xyz-24292f?style=flat-square"/></a>
   <a href="https://linkedin.com/in/xiangli8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-xiangli8-0a66c2?style=flat-square"/></a>
   <a href="mailto:lixiang8@cmu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-lixiang8%40cmu.edu-57606a?style=flat-square"/></a>
