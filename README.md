@@ -45,11 +45,11 @@ I build scalable backend systems and production-oriented LLM pipelines, with a g
 ## Latest from the blog
 
 <!-- BLOG-POSTS:START -->
+- [How Diffusion Models Do Reinforcement Learning: From the Cosmos3 Dual Tower to One Round of FlowGRPO](https://blog.li-xiang.xyz/2026/11/17/Deep-Learning/Diffusion-RL-From-Dual-Tower-To-FlowGRPO/) <sub>2026-11-17</sub>
 - [CS336 Language Modeling: GPUs (Lecture 5)](https://blog.li-xiang.xyz/2026/11/16/CS336/CS336-Lec5-GPUs/) <sub>2026-11-16</sub>
 - [11-711 Advanced NLP: Parallelism and Scaling](https://blog.li-xiang.xyz/2026/04/07/11711-Advanced-NLP/11711-Advanced-NLP-Parallelism-Scaling/) <sub>2026-04-07</sub>
 - [11-711 Advanced NLP: Quantization](https://blog.li-xiang.xyz/2026/04/07/11711-Advanced-NLP/11711-Advanced-NLP-Quantization/) <sub>2026-04-07</sub>
 - [11-868 LLM Systems: Systems for Mixture-of-Experts Models](https://blog.li-xiang.xyz/2026/03/21/11868-LLM-Sys/11868-LLM-Sys-MoE-Systems/) <sub>2026-03-21</sub>
-- [15-645 Database Systems: Query Optimization](https://blog.li-xiang.xyz/2026/03/20/15645-Database-Systems/15645-Database-systems-Query-Optimization/) <sub>2026-03-20</sub>
 <!-- BLOG-POSTS:END -->
 
 <sub>More at <a href="https://blog.li-xiang.xyz">xloverflow.github.io</a> · 中文版在 <a href="https://blog.li-xiang.xyz/zh/">/zh/</a></sub>
